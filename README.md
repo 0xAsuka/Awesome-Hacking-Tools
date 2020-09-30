@@ -342,6 +342,7 @@ ________________________________________________________________________________
 * __golismero	2.0__	Opensource web security testing framework.	https://github.com/golismero/golismero
 * __goodork	2.2__	A python script designed to allow you to leverage the power of google dorking straight from the comfort of your command line.	http://goo-dork.blogspot.com/
 * __goofile	1.5__	Command line filetype search	https://code.google.com/p/goofile/
+* __Go-Dork__	The fastest dork scanner written in Go.	https://github.com/dwisiswant0/go-dork
 * __goog-mail	1.0__	Enumerate domain emails from google.	http://www.darkc0de.com/others/goog-mail.py
 * __googlesub	1.2__	A python script to find domains by using google dorks.	https://github.com/zombiesam/googlesub
 * __gooscan	1.0.9__	A tool that automates queries against Google search appliances, but with a twist.	http://johnny.ihackstuff.com/downloads/task,doc_details&Itemid=/gid,28/
@@ -899,6 +900,7 @@ sslscan	239.1328b49	Tests SSL/TLS enabled services to discover supported cipher 
 * __stunnel	5.06__	A program that allows you to encrypt arbitrary TCP connections inside SSL	http://www.stunnel.org
 * __subdomainer	1.2__	A tool designed for obtaining subdomain names from public sources.	http://www.edge-security.com/subdomainer.php
 * __subterfuge	5.0__	Automated Man-in-the-Middle Attack Framework	http://kinozoa.com
+* __Sudomy__	Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance. This tool can also be used for OSINT activities.	https://github.com/Screetsec/Sudomy
 * __sucrack	1.2.3__	A multi-threaded Linux/UNIX tool for brute-force cracking local user accounts via su	http://labs.portcullis.co.uk/application/sucrack
 * __sulley	1.0.cb5e62c__	A pure-python fully automated and unattended fuzzing framework.	https://github.com/OpenRCE/sulley/
 * __superscan	4__	Powerful TCP port scanner, pinger, resolver.	http://www.foundstone.com/us/resources/proddesc/superscan.htm
